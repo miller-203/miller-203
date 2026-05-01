@@ -60,9 +60,11 @@ I am a software developer navigating the intensive "learning-by-doing" curriculu
 
 ### 🚀 Key Projects
 
-*   **1337 (42 Network):** Currently solving complex systems and memory management challenges in C and C++.
-*   **Zone01 Oujda:** Built algorithmic pathfinding (Lem-in) and real-time networking (Net-cat) tools.
-*   **Java Piscine:** Mastered Object-Oriented Programming and advanced design patterns.
+*   **Minishell (1337):** A comprehensive implementation of a simplified shell in **C**, focusing on process management, system calls, and signal handling.
+*   **01Blog Platform:** A full-stack blogging platform built with **Spring Boot** and **NGINX**, featuring backend architecture and secure deployment.
+*   **Lem-in (Zone01):** An algorithmic project using **Go** to find non-overlapping, optimal paths in a graph network.
+*   **Net-cat (Zone01):** A real-time TCP chat server project utilizing Go's concurrency primitives like Goroutines and Channels.
+*   **Java Piscine:** An intensive 4-week coding marathon focused on **Object-Oriented Programming (OOP)** mastery.
 
 ---
 
