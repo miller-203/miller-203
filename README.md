@@ -39,9 +39,21 @@ I am a software developer navigating the intensive "learning-by-doing" curriculu
 ---
 
 ### 📊 Coding Statistics
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=miller-203&show_icons=true&theme=radical" alt="Stats" width="400" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miller-203&layout=compact&theme=radical" alt="Top Langs" width="300" />
+
+<p align="center">
+  <!-- General Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=miller-203&show_icons=true&theme=radical" width="48%" />
+  
+  <!-- Commit Activity Graph -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miller-203&theme=radical" width="48%" />
+</p>
+
+<p align="center">
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miller-203&layout=compact&theme=radical" width="48%" />
+  
+  <!-- Extra Activity Card -->
+  <img src="https://github-stats-alpha.vercel.app/api?username=miller-203&theme=radical" width="48%" />
 </p>
 
 ---
