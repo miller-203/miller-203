@@ -67,6 +67,7 @@ I am a software developer navigating the intensive "learning-by-doing" curriculu
 *   **Lem-in (Zone01):** An algorithmic project using **Go** to find non-overlapping, optimal paths in a graph network.
 *   **Net-cat (Zone01):** A real-time TCP chat server project utilizing Go's concurrency primitives like Goroutines and Channels.
 *   **Java Piscine:** An intensive 4-week coding marathon focused on **Object-Oriented Programming (OOP)** mastery.
+*   **Rust Piscine:** An intensive dive into the **Rust** ecosystem, mastering ownership, borrowing, lifetimes, and safe concurrency.
 
 ---
 
